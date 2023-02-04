@@ -1,7 +1,7 @@
 # International Airline Passenger Forecast with ARIMA
 This project uses the ARIMA (AutoRegressive Integrated Moving Average) method to forecast the monthly totals of international airline passengers from 1949 to 1960. 
 
-#Requirements
+# Requirements
 The following packages are required to run the code:
 
 NumPy
